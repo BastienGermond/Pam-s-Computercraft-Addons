@@ -1,0 +1,9 @@
+itemGroup.pamsaddons=Pam's Addons
+
+turtleUpgrade.salt=Salty
+turtleUpgrade.pams=Pam's
+
+item.TurtlePamsUpgrade.name=Turtle Pam's Upgrade
+item.TurtleSaltUpgrade.name=Turtle Salt Upgrade
+
+tile.TestBlock.name=Test Block
