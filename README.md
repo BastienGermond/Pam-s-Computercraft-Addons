@@ -1,4 +1,4 @@
-# Pam's Computercraft Addons
+# Pam's Computercraft Addons [1.7.10]
 
 This addon has been created to make better farm using Computercraft's turtle by adding some Turtle upgrade.
 
