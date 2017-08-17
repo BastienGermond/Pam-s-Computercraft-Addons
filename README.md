@@ -8,7 +8,7 @@ This addon has been created to make better farm using Computercraft's turtle by 
 
 ![Turtle Pams Upgrade](http://i.imgur.com/bUitXHI.png)
 
-Used to harvest crops and fruits from pam's harvestcraft<br/>
+Used to harvest crops and fruits from pam's harvestcraft like a player did with right click (save the seed in dirt and only recolt the fruits or vegetables) <br/>
 To use it juste use the standart `turtle.dig()` (`digUp` or `digDown`)
 
 <br/>
