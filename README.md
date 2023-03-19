@@ -11,7 +11,7 @@ You can download it in the release tab.
 ![Turtle Pams Upgrade](http://i.imgur.com/bUitXHI.png)
 
 Used to harvest crops and fruits from pam's harvestcraft like a player did with right click (save the seed in dirt and only pick the fruit or vegetable) <br/>
-To use it simply use the standart `turtle.dig()` (`digUp` or `digDown`)
+To use it simply run `turtle.dig()` (`digUp` or `digDown`)
 
 <br/>
 
@@ -20,4 +20,4 @@ To use it simply use the standart `turtle.dig()` (`digUp` or `digDown`)
 ![Turtle Salt Upgrade](http://i.imgur.com/3CmHdFz.png)
 
 Used to create salt by drawing water from a water source or a sink from pam's harvestcraft<br/>
-To use it simply use the standart `turtle.dig()` (`digUp` or `digDown`)
+To use it simply run `turtle.dig()` (`digUp` or `digDown`)
